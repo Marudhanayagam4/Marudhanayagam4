@@ -7,6 +7,6 @@
 * 💡 Innovator focused on creating intelligent solutions for real-world problems
 * 🔍 Dedicated to pushing the boundaries of artificial intelligence
 * 💻 Building projects to enhance skills and contribute to the AI community
-* 
+
 * I’m looking to collaborate on AI projects(Specially related to ML Predictions)
 * 📫 You can reach me on marudha.nayagam.dev@gmail.com
